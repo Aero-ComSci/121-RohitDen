@@ -20,7 +20,8 @@ https://github.com/user-attachments/assets/c1911c59-deba-4762-bd0a-29642134ff7d
 
 In this code, the add_color() function is used to change the colors of the spot and the box, and the stamp() is used to show the spot and box's colors at the current position.
 
-![image](https://github.com/user-attachments/assets/8d6878b5-7196-45f8-979c-17802507462c)
+![image](https://github.com/user-attachments/assets/3f783813-82e0-4a34-a620-9d817424dcb8)
+
 
 In this code, when the start_game() function is called, the timer is set to 30 seconds,the score is reset and set to 0,the background becomes sky blue,and the box and spot show their black colors.
 
